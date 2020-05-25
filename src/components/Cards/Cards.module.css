@@ -1,0 +1,12 @@
+.card {
+	padding: 1% !important;
+	width: 300px;
+	opacity: 0.8;
+	height: 130px;
+}
+
+@media only screen and (max-width: 900px) {
+	.card {
+		height: 130px;
+	}
+}
